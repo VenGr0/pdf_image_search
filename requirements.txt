@@ -1,0 +1,9 @@
+pymupdf
+pandas
+scikit-learn
+nltk
+torch
+torchvision
+transformers
+faiss-cpu
+matplotlib
